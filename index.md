@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 妍遇美丽管理中心
 description: 美丽管理中心
-image: assets/images/logo.jpg
+image: 
 author: 
 nav-menu: 
 ---
@@ -12,6 +12,7 @@ nav-menu:
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
+		        <img src="assets/images/logo.jpg" alt="logo" />
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
