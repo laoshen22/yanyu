@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 变美，只需每天一瓶水的价钱！
+landing-title: 妍遇美丽管理中心
 description: 
 image: 
 author: 
