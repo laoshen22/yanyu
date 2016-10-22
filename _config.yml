@@ -8,17 +8,17 @@
 # Site settings
 title-bold: 妍遇
 title-normal: Yanyu
-email: youremailaddress@gmail.com
+邮箱: youremailaddress@gmail.com
 description: 让美丽不仅是有钱人专利.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author: 
-street_address: 新世纪环球中心N2区17楼
+地址: 新世纪环球中心N2区17楼
 city: 成都市
 state: 四川省
 zip_code: 
 country: 
-phone: 
+电话: 
 
 # Plugins
 gems:
