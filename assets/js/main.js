@@ -156,7 +156,7 @@
 							$image.css('background-position', x);
 
 					// Hide original.
-						//$image.hide();
+						$image.hide();
 
 				// Link.
 					if ($link.length > 0) {
@@ -247,7 +247,7 @@
 			});
 
 		// Menu.
-			var $menu = $('#menu'),
+			var $menu = $('#目录'),
 				$menuInner;
 
 			$menu.wrapInner('<div class="inner"></div>');
