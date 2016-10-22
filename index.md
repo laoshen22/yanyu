@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 妍遇美丽管理中心
 description: 
-image: 
+image: assets/images/logo.jpg
 author: 
 nav-menu: 
 ---
