@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 妍遇美丽管理中心
+landing-title: 变美，只需每天一瓶水的价钱！
 description: 
 image: 
 author: 
@@ -16,9 +16,7 @@ nav-menu:
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
-			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">开始变美</a></li>
-			</ul>
+			
 		</div>
 	</div>
 </section>
