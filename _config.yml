@@ -9,7 +9,7 @@
 title-bold: 妍遇
 title-normal: Yanyu
 email: youremailaddress@gmail.com
-description: 变美,只需每天一瓶水的价钱。
+description: 
 baseurl: "/yanyu"  #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "http://lisaling.site" #"https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author: 
