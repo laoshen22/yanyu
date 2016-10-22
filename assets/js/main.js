@@ -247,7 +247,7 @@
 			});
 
 		// Menu.
-			var $menu = $('#目录'),
+			var $menu = $('#menu'),
 				$menuInner;
 
 			$menu.wrapInner('<div class="inner"></div>');
