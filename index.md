@@ -12,7 +12,7 @@ nav-menu:
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
-		        <img src="assets/images/logo.jpg" alt="logo" />
+		        <img src="assets/images/logo.jpg" alt="logo" style="width:100px;height:80px;"/>
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
