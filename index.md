@@ -13,7 +13,7 @@ nav-menu:
 	<div class="inner">
 		<header class="major">
 		        
-			<h1><img src="assets/images/logo.jpg" alt="logo" style="width:100px;height:80px;"/>{{ page.landing-title }}</h1>
+			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
