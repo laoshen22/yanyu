@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 妍遇美丽管理中心 Yanyu Aesthetic Centre
+landing-title: 妍遇美丽管理中心
 description: 
 image: 
 author: 
